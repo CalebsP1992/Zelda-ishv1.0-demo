@@ -1,0 +1,7 @@
+In order to run this game, open a terminal in the dist/ folder and run this command:
+
+./Zelda-ishv1.0
+
+NOTE: You MUST have the proper dependencies installed.
+
+sudo apt-get install python3-dev
