@@ -10,3 +10,4 @@ and I could never create a game anywhere close to the quality they've achieved.
 --------------------------------------------------------------------------------------------------------------------
 
 That being said, feel free to download the game. This game should work with linux and windows as long as you launch it correctly.
+![preview1](https://github.com/user-attachments/assets/d40892ec-9cd1-481c-91aa-cc6f19f43cea)
